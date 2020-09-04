@@ -34,7 +34,6 @@ body {
 	background-size: cover;
 	background-position: top;
 	clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
-<<<<<<< HEAD
 	position: relative;
 }
 
@@ -72,6 +71,4 @@ body {
 	font-size: 20px;
 	font-weight: 700;
 	letter-spacing: 17.4px;
-=======
->>>>>>> 9b05ea29bf7ebc5889a64666dca147548d2187b6
 }
